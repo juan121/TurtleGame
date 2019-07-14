@@ -1,0 +1,14 @@
+C:\Users\JM505 Computers\source\repos\TurtleChallenge\TurtleChallenge\bin\Debug\netcoreapp2.2\TurtleChallenge.deps.json
+C:\Users\JM505 Computers\source\repos\TurtleChallenge\TurtleChallenge\bin\Debug\netcoreapp2.2\TurtleChallenge.runtimeconfig.json
+C:\Users\JM505 Computers\source\repos\TurtleChallenge\TurtleChallenge\bin\Debug\netcoreapp2.2\TurtleChallenge.runtimeconfig.dev.json
+C:\Users\JM505 Computers\source\repos\TurtleChallenge\TurtleChallenge\bin\Debug\netcoreapp2.2\TurtleChallenge.dll
+C:\Users\JM505 Computers\source\repos\TurtleChallenge\TurtleChallenge\bin\Debug\netcoreapp2.2\TurtleChallenge.pdb
+C:\Users\JM505 Computers\source\repos\TurtleChallenge\TurtleChallenge\obj\Debug\netcoreapp2.2\TurtleChallenge.csprojAssemblyReference.cache
+C:\Users\JM505 Computers\source\repos\TurtleChallenge\TurtleChallenge\obj\Debug\netcoreapp2.2\TurtleChallenge.csproj.CoreCompileInputs.cache
+C:\Users\JM505 Computers\source\repos\TurtleChallenge\TurtleChallenge\obj\Debug\netcoreapp2.2\TurtleChallenge.AssemblyInfoInputs.cache
+C:\Users\JM505 Computers\source\repos\TurtleChallenge\TurtleChallenge\obj\Debug\netcoreapp2.2\TurtleChallenge.AssemblyInfo.cs
+C:\Users\JM505 Computers\source\repos\TurtleChallenge\TurtleChallenge\obj\Debug\netcoreapp2.2\TurtleChallenge.dll
+C:\Users\JM505 Computers\source\repos\TurtleChallenge\TurtleChallenge\obj\Debug\netcoreapp2.2\TurtleChallenge.pdb
+C:\Users\JM505 Computers\source\repos\TurtleChallenge\TurtleChallenge\bin\Debug\netcoreapp2.2\Utilities.dll
+C:\Users\JM505 Computers\source\repos\TurtleChallenge\TurtleChallenge\bin\Debug\netcoreapp2.2\Utilities.pdb
+C:\Users\JM505 Computers\source\repos\TurtleChallenge\TurtleChallenge\obj\Debug\netcoreapp2.2\TurtleChallenge.csproj.CopyComplete
