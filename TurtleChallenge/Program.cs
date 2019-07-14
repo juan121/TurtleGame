@@ -33,8 +33,6 @@ namespace TurtleChallenge
         {
             try
             {
-                //Reading File Settings
-
                 var input = string.Empty;
                 var inProgress = true;
 
@@ -45,7 +43,6 @@ namespace TurtleChallenge
                     input = Console.ReadLine();
 
                     if (input.ToUpper() != "R") inProgress = false;
-                    //input.ToUpper() != "R" && input.ToUpper() != "Q"
                 }
                 while (inProgress);
 

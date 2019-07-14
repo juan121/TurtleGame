@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JM505 Computers\\source\\repos\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.csproj": {}
+    "C:\\Users\\JM505 Computers\\Documents\\GitHub\\TurtleGame\\TurtleChallenge\\TurtleChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JM505 Computers\\source\\repos\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.csproj": {
+    "C:\\Users\\JM505 Computers\\Documents\\GitHub\\TurtleGame\\TurtleChallenge\\TurtleChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JM505 Computers\\source\\repos\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\JM505 Computers\\Documents\\GitHub\\TurtleGame\\TurtleChallenge\\TurtleChallenge.csproj",
         "projectName": "TurtleChallenge",
-        "projectPath": "C:\\Users\\JM505 Computers\\source\\repos\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.csproj",
+        "projectPath": "C:\\Users\\JM505 Computers\\Documents\\GitHub\\TurtleGame\\TurtleChallenge\\TurtleChallenge.csproj",
         "packagesPath": "C:\\Users\\JM505 Computers\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JM505 Computers\\source\\repos\\TurtleChallenge\\TurtleChallenge\\obj\\",
+        "outputPath": "C:\\Users\\JM505 Computers\\Documents\\GitHub\\TurtleGame\\TurtleChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\JM505 Computers\\source\\repos\\TurtleChallenge\\Utilities\\Utilities.csproj": {
-                "projectPath": "C:\\Users\\JM505 Computers\\source\\repos\\TurtleChallenge\\Utilities\\Utilities.csproj"
+              "C:\\Users\\JM505 Computers\\Documents\\GitHub\\TurtleGame\\Utilities\\Utilities.csproj": {
+                "projectPath": "C:\\Users\\JM505 Computers\\Documents\\GitHub\\TurtleGame\\Utilities\\Utilities.csproj"
               }
             }
           }
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Users\\JM505 Computers\\source\\repos\\TurtleChallenge\\Utilities\\Utilities.csproj": {
+    "C:\\Users\\JM505 Computers\\Documents\\GitHub\\TurtleGame\\Utilities\\Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JM505 Computers\\source\\repos\\TurtleChallenge\\Utilities\\Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\JM505 Computers\\Documents\\GitHub\\TurtleGame\\Utilities\\Utilities.csproj",
         "projectName": "Utilities",
-        "projectPath": "C:\\Users\\JM505 Computers\\source\\repos\\TurtleChallenge\\Utilities\\Utilities.csproj",
+        "projectPath": "C:\\Users\\JM505 Computers\\Documents\\GitHub\\TurtleGame\\Utilities\\Utilities.csproj",
         "packagesPath": "C:\\Users\\JM505 Computers\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JM505 Computers\\source\\repos\\TurtleChallenge\\Utilities\\obj\\",
+        "outputPath": "C:\\Users\\JM505 Computers\\Documents\\GitHub\\TurtleGame\\Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

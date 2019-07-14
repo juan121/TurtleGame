@@ -5789,11 +5789,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JM505 Computers\\source\\repos\\TurtleChallenge\\TurtleChallengeTest\\TurtleChallengeTest.csproj",
+      "projectUniqueName": "C:\\Users\\JM505 Computers\\Documents\\GitHub\\TurtleGame\\TurtleChallengeTest\\TurtleChallengeTest.csproj",
       "projectName": "TurtleChallengeTest",
-      "projectPath": "C:\\Users\\JM505 Computers\\source\\repos\\TurtleChallenge\\TurtleChallengeTest\\TurtleChallengeTest.csproj",
+      "projectPath": "C:\\Users\\JM505 Computers\\Documents\\GitHub\\TurtleGame\\TurtleChallengeTest\\TurtleChallengeTest.csproj",
       "packagesPath": "C:\\Users\\JM505 Computers\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JM505 Computers\\source\\repos\\TurtleChallenge\\TurtleChallengeTest\\obj\\",
+      "outputPath": "C:\\Users\\JM505 Computers\\Documents\\GitHub\\TurtleGame\\TurtleChallengeTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5812,11 +5812,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\JM505 Computers\\source\\repos\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.csproj": {
-              "projectPath": "C:\\Users\\JM505 Computers\\source\\repos\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.csproj"
+            "C:\\Users\\JM505 Computers\\Documents\\GitHub\\TurtleGame\\TurtleChallenge\\TurtleChallenge.csproj": {
+              "projectPath": "C:\\Users\\JM505 Computers\\Documents\\GitHub\\TurtleGame\\TurtleChallenge\\TurtleChallenge.csproj"
             },
-            "C:\\Users\\JM505 Computers\\source\\repos\\TurtleChallenge\\Utilities\\Utilities.csproj": {
-              "projectPath": "C:\\Users\\JM505 Computers\\source\\repos\\TurtleChallenge\\Utilities\\Utilities.csproj"
+            "C:\\Users\\JM505 Computers\\Documents\\GitHub\\TurtleGame\\Utilities\\Utilities.csproj": {
+              "projectPath": "C:\\Users\\JM505 Computers\\Documents\\GitHub\\TurtleGame\\Utilities\\Utilities.csproj"
             }
           }
         }
