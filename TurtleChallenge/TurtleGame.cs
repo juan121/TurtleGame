@@ -14,8 +14,10 @@ namespace TurtleChallenge
         private readonly int _boardWidth;
         private readonly ICollection<Position> _minesList;
         private readonly ICollection<Moves> _movesList;
-        private IFullPosition _turtlePosition { get; set; }
 
+        //Private properties
+        private IFullPosition _turtlePosition { get; set; }
+        //Events
         public event EventHandler<MoveEventArgs> moveEvent;
         public event EventHandler<string> taskEvent;
 

@@ -23,12 +23,6 @@ namespace TurtleChallenge
         static string gameSettingsPath = @"C:\Turtle\Turtle_Success\TurtleConfigSettings.txt";
         static string movesPath = @"C:\Turtle\Turtle_Success\Turtle_Moves.txt";
 
-        //const PathGameSettings = 
-        //static void Main(string[] args)
-        //{
-        //    AsyncContext.Run(() => MainAsync(args));
-        //}
-
         static void Main(string[] args)
         {
             try
@@ -75,8 +69,6 @@ namespace TurtleChallenge
             Console.WriteLine(">>>...");
             Console.WriteLine(">>>...");
 
-            //Iturtle
-            //Check if the firt position is the exit position
             var turtleGame = new TurtleGame(_initialPosition, _finalPostion, _boardHeigth, _boardWidth, _minesList, _movesList);
             //Attaching event Handlers
             //We do it this way to show the usage of an inline function with lambda expression
